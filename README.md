@@ -11,6 +11,7 @@
 
 ## Демонстрация выполнения программы
 
+![GIF](https://github.com/Dmrain/concentric_circles/blob/master/gifs/circles.gif)
 
 ## Установка и запуск программы
 
